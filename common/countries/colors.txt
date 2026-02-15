@@ -1,4 +1,8 @@
 #reload countrycolors
+MOD = {
+    color = rgb { 230 107 0 }
+    color_ui = rgb { 230 107 0 }
+}
 SUI = {
     color = rgb { 81  92  110 }
     color_ui = rgb { 81  92  110 }
