@@ -17,16 +17,8 @@ state = {
 			778 1 # Annecy
 		}
 
-		victory_points = {
-			9909 5 # Nice
-		}
-
 		buildings = {
 			infrastructure = 2
-
-			9909 = {
-				naval_base = 2
-			}	
 
 			# Tignes Dam
 			#9745 = { dam = 1 }
