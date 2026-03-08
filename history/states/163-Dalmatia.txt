@@ -6,7 +6,7 @@ state = {
 	state_category = enclave
 	
 	history = {
-		owner = AUS
+		owner = CRO
 		victory_points = { #Zara/Zadar
 			3943 5 
 		}
@@ -19,7 +19,6 @@ state = {
 		add_core_of = YUG
 		add_core_of = CRO
 		add_core_of = LBV
-		add_core_of = AUS
 		
 
 		### CHANGED TO A MROE ROBUST SYSTEM

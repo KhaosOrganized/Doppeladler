@@ -14,7 +14,7 @@ state = {
 
 	history = {
 
-		owner = AUS
+		owner = HUN
 		
 		buildings = {
 			infrastructure = 3
