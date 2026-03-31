@@ -1,0 +1,21 @@
+characters={
+
+
+			###Leaders###junta###
+
+
+	FRA_philippe_petain={ #starting dictator#
+		name=FRA_philippe_petain
+		portraits={
+			civilian={
+				large="GFX_portrait_fra_philippe_petain"
+			}
+		}
+		country_leader={
+			ideology=stratocracy
+			traits={ }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

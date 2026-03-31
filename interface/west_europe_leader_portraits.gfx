@@ -1,0 +1,12 @@
+spriteTypes = {
+
+	# FRANCE #
+
+	spriteType = {
+		name = "GFX_portrait_fra_philippe_petain"
+		texturefile = "gfx/leaders/FRA/portrait_fra_philippe_petain.dds"
+	}
+
+
+
+}
