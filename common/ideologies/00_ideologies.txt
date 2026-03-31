@@ -4,7 +4,28 @@ ideologies = {
 
 		types = {
 
-			nazism = {
+			Volkisch = {
+			}
+
+			Nat_syn_right = {
+			}
+
+			Ancestrial = {
+			}
+
+			ultnat_stratocracy = {
+			}
+
+			revanchism = {
+			}
+
+			natpop = {
+			}
+
+			black_hundreds = {
+			}
+
+			nat_integralism = {
 			}
 
 		}
@@ -51,7 +72,31 @@ ideologies = {
 
 		types = {
 
-			despotism  = {
+			monarchy  = {
+			}
+
+			islam_theocracy  = {
+			}
+
+			catholic_theocracy  = {
+			}
+
+			orthodox_theocracy  = {
+			}
+
+			buddhist_theocracy  = {
+			}
+
+			stratocracy  = {
+			}
+
+			auth_dem  = {
+			}
+
+			colonial_gov  = {
+			}
+
+			prov_gov  = {
 			}
 
 		}
@@ -103,7 +148,22 @@ ideologies = {
 
 		types = {
 
-			conservarism = {
+			christian_dem = {
+			}
+
+			lib_con = {
+			}
+
+			nat_con = {
+			}
+
+			trad_con = {
+			}
+
+			agrarian_con = {
+			}
+
+			prog_con = {
 			}
 
 		}
@@ -164,7 +224,22 @@ ideologies = {
 
 		types = {
 
-			market_liberalism = {
+			class_lib = {
+			}
+
+			man_lib = {
+			}
+
+			libertarian = {
+			}
+
+			con_lib = {
+			}
+
+			jefferson = {
+			}
+
+			mari_Lib = {
 			}
 
 		}
@@ -224,8 +299,21 @@ ideologies = {
 
 		types = {
 
-			social_liberalism = {
+			prog_lib = {
 			}
+		
+			lib_kem = {
+			}
+
+			left_nat = {
+			}
+
+			fed_lib = {
+			}
+
+			left_nat_lib = {
+			}
+
 
 		}
 
@@ -284,9 +372,26 @@ ideologies = {
 
 		types = {
 
-			social_democrat = {
+			agrarian_lib = {
 			}
 
+			kemalism = {
+			}
+
+			reform_marx = {
+			}
+
+			labourism = {
+			}
+
+			liberal_socialism = {
+			}
+
+			social_corporatism = {
+			}
+
+			social_patriotism = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -344,7 +449,25 @@ ideologies = {
 
 		types = {
 
-			radical_socialist = {
+			syndicalism = {
+			}
+
+			council_com = {
+			}
+
+			dem_soc = {
+			}
+
+			left_anarch = {
+			}
+
+			christ_soc = {
+			}
+
+			agrarian_soc = {
+			}
+
+			austro_marxism = {
 			}
 
 		}
@@ -405,7 +528,22 @@ ideologies = {
 
 		types = {
 
-			marxism = {
+			bolshevism = {
+			}
+
+			state_soc = {
+			}
+
+			nat_syn_left = {
+			}
+
+			maximalism = {
+			}
+
+			left_stratocracy = {
+			}
+
+			jacobinism = {
 			}
 
 		}
