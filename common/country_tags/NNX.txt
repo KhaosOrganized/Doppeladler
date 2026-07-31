@@ -1,1 +1,0 @@
-NNX = "countries/Ningxia.txt"

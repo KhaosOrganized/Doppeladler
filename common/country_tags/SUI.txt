@@ -1,1 +1,0 @@
-SUI = "countries/Suiyuan.txt"

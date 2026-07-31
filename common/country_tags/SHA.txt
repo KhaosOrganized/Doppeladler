@@ -1,1 +1,0 @@
-SHA = "countries/Shan.txt"

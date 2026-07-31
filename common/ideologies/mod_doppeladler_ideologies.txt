@@ -1,0 +1,140 @@
+ideologies = {
+    ultranationalism = {
+        types = {
+            ultranationalism_military = {
+            }
+            ultranationalism_natsyn = {
+            }
+            ultranationalism_volk = {
+            }
+            ultranationalism_base = {
+            }
+            ultranationalism_past = {
+            }
+            ultranationalism_rev = {
+            }
+        }
+        color = { 57 64 32 }
+        war_impact_on_world_tension = 5
+        faction_impact_on_world_tension = 1
+        can_host_government_in_exile = yes
+        can_collaborate = yes
+        rules = {
+            can_force_government = yes
+            can_send_volunteers = yes
+            can_puppet = yes
+        }
+    }
+    paternalism = {
+        types = {
+            paternalism_placeholder = {
+            }
+        }
+        color = { 59 59 59 }
+        war_impact_on_world_tension = 1
+        faction_impact_on_world_tension = 1
+        can_host_government_in_exile = yes
+        can_collaborate = yes
+        rules = {
+            can_force_government = yes
+            can_send_volunteers = yes
+            can_puppet = yes
+        }
+    }
+    conservatism = {
+        types = {
+            conservatism_placeholder = {
+            }
+        }
+        color = { 14 11 112 }
+        war_impact_on_world_tension = 1
+        faction_impact_on_world_tension = 1
+        can_host_government_in_exile = yes
+        can_collaborate = yes
+        rules = {
+            can_force_government = yes
+            can_send_volunteers = yes
+            can_puppet = yes
+        }
+    }
+    right_liberalism = {
+        types = {
+            right_liberalism_placeholder = {
+            }
+        }
+        color = { 9 199 0 }
+        war_impact_on_world_tension = 1
+        faction_impact_on_world_tension = 1
+        can_host_government_in_exile = yes
+        can_collaborate = yes
+        rules = {
+            can_force_government = yes
+            can_send_volunteers = yes
+            can_puppet = yes
+        }
+    }
+    left_liberalism = {
+        types = {
+            social_liberalism_placeholder = {
+            }
+        }
+        color = { 255 124 0 }
+        war_impact_on_world_tension = 1
+        faction_impact_on_world_tension = 1
+        can_host_government_in_exile = yes
+        can_collaborate = yes
+        rules = {
+            can_force_government = yes
+            can_send_volunteers = yes
+            can_puppet = yes
+        }
+    }
+    social_democracy = {
+        types = {
+            social_democracy_placeholder = {
+            }
+        }
+        color = { 110 110 110 }
+        war_impact_on_world_tension = 1
+        faction_impact_on_world_tension = 1
+        can_host_government_in_exile = yes
+        can_collaborate = yes
+        rules = {
+            can_force_government = yes
+            can_send_volunteers = yes
+            can_puppet = yes
+        }
+    }
+    socialist_radicalism = {
+        types = {
+            soc_rad_placeholder = {
+            }
+        }
+        color = { 110 110 110 }
+        war_impact_on_world_tension = 1
+        faction_impact_on_world_tension = 1
+        can_host_government_in_exile = yes
+        can_collaborate = yes
+        rules = {
+            can_force_government = yes
+            can_send_volunteers = yes
+            can_puppet = yes
+        }
+    }
+    vanguardism = {
+        types = {
+            vanguardism_placeholder = {
+            }
+        }
+        color = { 110 110 110 }
+        war_impact_on_world_tension = 1
+        faction_impact_on_world_tension = 1
+        can_host_government_in_exile = yes
+        can_collaborate = yes
+        rules = {
+            can_force_government = yes
+            can_send_volunteers = yes
+            can_puppet = yes
+        }
+    }
+}
